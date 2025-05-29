@@ -1,4 +1,5 @@
 ## Hi there 👋
+## I'm still studying to become a front-end developer)
 
 <!--
 **Elgiz673/Elgiz673** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
